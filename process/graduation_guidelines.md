@@ -113,7 +113,7 @@ reached a level of maturity and polish which will delight users.
 - SLA / SLO guidance
 - Telemetry and Metrics for errors and general usage
   - Define a set of KPIs with a dashboard
-  - Setup alerting for anomalous value ranges
+  - Setup alerting for anomalous value ranges (ex: life cycle success rates -- create, update, etc)
   - If not possible, provide reasoning for why
 
 ### Badging
