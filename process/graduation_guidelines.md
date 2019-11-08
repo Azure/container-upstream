@@ -27,7 +27,7 @@ a community foundation, the option of project donation is an option.
 ![AzCU Maturity Process](../images/maturity-diagram.png)
 
 ## Sandbox Stage
-Sandbox projects are "early stage" projects that warrant experimentation. The project should be 
+Sandbox projects are early stage projects that warrant experimentation. The project should be 
 beneficial to Azure and the Cloud Native community, open to contributions from the public and have 
 well-founded aspiration.
 
@@ -38,9 +38,8 @@ The AzCU Sandbox is the entry point for early stage projects and has the followi
 - Remove obstacles to adoption and contribution by ensuring projects adhere to Microsoft Open Source
   Guidelines, code of conduct and IP policy requirements
   
-### Entry Requirements
+### Entry Guidelines
 - Required backing of at least one member of the product management
-- Display of the AzCU "Sandbox" badge on website / readme
 - Draft project proposal for review and approval by TOC
   - A great example is the [CNCF Project Proposal Process](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/project_proposals.adoc)
   - TODO: create our own project proposal process based on the CNCF project proposal process
@@ -50,11 +49,14 @@ The AzCU Sandbox is the entry point for early stage projects and has the followi
     - MSFT code of conduct
     - LCA bot enabled
 
+### Badging
+- Display of the AzCU "Sandbox" badge on website / readme which links to explanation of level.
+
 ## Incubating Stage
 An Incubating project is one that has met all of the requirements of the Sandbox stage and is 
 showing accelerating adoption.
 
-### Entry Requirements
+### Entry Guidelines
 - Minimum of 3 engaged users using the project in a production or pre-production environment
 - Minimum of 2 maintainers
 - Full due diligence of the TOC
@@ -76,11 +78,15 @@ showing accelerating adoption.
 - Telemetry for errors and general usage
   - If not possible, provide reasoning for why
 
+### Badging
+- Display of the AzCU "Incubation" badge on website / readme which links to explanation of level
+
+
 ## Graduation Stage
 Graduation Stage project is one that has met all of the requirements of the Incubation stage and has
 reached a level of maturity and polish which will delight users.
 
-### Entry Requirements
+### Entry Guidelines
 - Minimum of 30 engaged users using the project in production
 - Minimum of 4 maintainers (at least one from outside AzCU)
 - Semester project road map published and updated
@@ -102,9 +108,13 @@ reached a level of maturity and polish which will delight users.
   - Setup alerting for anomalous value ranges
   - If not possible, provide reasoning for why
 
-## Donation Stage
-The Donation Stage is intended to be after the Graduation Stage for projects which would benefit 
-from a more neutral home such as a community foundation. 
+### Badging
+- Display of the AzCU "Graduation" badge on website / readme which links to explanation of level
+
+## Donation
+At any point in the maturity progression can a project be donated to a more neutral home, which
+will provide a more diverse governance model. A project can propose to be donated during quarterly
+reviews. The TOC can approve donation of a project with a 2/3 supermajority vote.
 
 For example, CNCF describes a neutral home as follows:
 A neutral home for your project increases the willingness of developers from other companies and 
