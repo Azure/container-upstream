@@ -70,7 +70,7 @@ showing accelerating adoption.
   - A great example is the [CNCF Due Diligence Guidelines](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/due-diligence-guidelines.md)
   - TODO: create our own DD guidelines based on the CNCF DD guidelines
 - Demonstrate a substantial ongoing flow of commits and merged contributions
-- Have a healthy number of issues and pull requests from external contributors
+- Have a healthy number of issues and pull requests
 - Set a clear, documented versioning scheme
 - Show significant progress toward achieving [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/)
   - Should have 
