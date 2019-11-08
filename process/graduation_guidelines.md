@@ -61,6 +61,7 @@ An Incubating project is one that has met all of the requirements of the Sandbox
 showing accelerating adoption.
 
 ### Entry Guidelines
+- Met Sandbox stage guidelines
 - Best effort support for issues and pull requests
 - 3+ engaged users using the project in a production or pre-production environment
 - 2+ maintainers
@@ -72,7 +73,8 @@ showing accelerating adoption.
 - Set a clear, documented versioning scheme
 - Show significant progress toward achieving [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/)
   - Should have 
-    - Unit tests and integration tests covering a majority of the codebase
+    - UT covering a majority of the codebase
+    - E2E tests covering 100% of all supported features/functionality 
     - Linting
     - Static analysis (where appropriate)
     - An initial security review
@@ -92,6 +94,7 @@ Graduation Stage project is one that has met all of the requirements of the Incu
 reached a level of maturity and polish which will delight users.
 
 ### Entry Guidelines
+- Met Incubation stage guidelines
 - On-call support within MSFT hosted properties, and best effort support for issues and pull requests
 - 30+ engaged users using the project in production
 - 4+ maintainers (at least one from outside AzCU)
