@@ -63,7 +63,7 @@ showing accelerating adoption.
 ### Entry Guidelines
 - Met Sandbox stage guidelines
 - Best effort support for issues and pull requests
-- 3+ engaged users using the project in a production or pre-production environment
+- 3+ reference-able production or preproduction deployments beyond contributing companies
 - 2+ maintainers
 - Full due diligence of the TOC
   - A great example is the [CNCF Due Diligence Guidelines](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/due-diligence-guidelines.md)
@@ -96,7 +96,7 @@ reached a level of maturity and polish which will delight users.
 ### Entry Guidelines
 - Met Incubation stage guidelines
 - On-call support within MSFT hosted properties, and best effort support for issues and pull requests
-- 30+ engaged users using the project in production
+- 30+ reference-able production or preproduction deployments beyond contributing companies
 - 4+ maintainers (at least one from outside AzCU)
 - Project road map published and updated
 - Full due diligence of the TOC with an eye to any misalignment
