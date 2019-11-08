@@ -1,5 +1,5 @@
-# Azure Container Upstream Graduation Guidelines v0.1
-The Azure Container Upstream Graduation Guidelines owes much of its basis on two existing documents,
+# Azure Cloud Native Upstream Graduation Guidelines v0.1
+The Azure Cloud Native Upstream Graduation Guidelines owes much of its basis on two existing documents,
 [CNCF Graduation Criteria](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/graduation_criteria.adoc) 
 and [.NET Foundation Project Maturity Profile](https://github.com/dotnet-foundation/project-maturity-model/blob/65fdfa43d7e68845bd65638c378cf834d7158b90/maturity-profiles.md). The goal of this document is to describe the process and 
 minimum bar for each increasing level of project maturity to both provide a
@@ -8,15 +8,16 @@ projects.
 
 ## Process
 
-Each project in Container Upstream (AzCU) has an associated maturity level. A proposed AzCU project 
-should enter at the project's preferred maturity level. If the project originates within the AzCU 
-group, then it should begin at the Sandbox Stage. If a joining project originates outside of the 
-AzCU group, the preferred maturity level of the project must meet a 2/3 supermajority vote by the 
-AzCU technical oversight committee (TOC). If the vote tally can not be met at the preferred 
-maturity level, each previous level will receive a vote until a 2/3 supermajority is met. If the 
-project does not receive enough votes at the Sandbox stage, the project is rejected.
+Each project in Azure Cloud Native Upstream (AzCNU) has an associated maturity level. A proposed 
+AzCNU project should enter at the project's preferred maturity level. If the project originates 
+within the AzCNU group, then it should begin at the Sandbox Stage. If a joining project 
+originates outside of the AzCNU group, the preferred maturity level of the project must meet 
+a 2/3 supermajority vote by the AzCNU technical oversight committee (TOC). If the vote tally 
+can not be met at the preferred maturity level, each previous level will receive a vote until a 
+2/3 supermajority is met. If the project does not receive enough votes at the Sandbox stage, the
+project is rejected.
 
-Each project in AzCU will participate in a quarterly review by the TOC. The review will assess the 
+Each project in AzCNU will participate in a quarterly review by the TOC. The review will assess the 
 project's maturity level as well as its community momentum. A 2/3 supermajority vote is required to 
 graduate to the next maturity level. If the project is no longer needed or has become obsolete, the 
 TOC can also vote with a 2/3 supermajority to archive the project.
@@ -27,16 +28,16 @@ a community foundation, the option of project donation is an option.
 All entry guidelines are aspirational and do not imply a hard rule. Since these metrics can vary significantly depending on the type, scope and size of a project, the TOC has final judgement over
 the interpretation of level with respect to the guidelines.
 
-![AzCU Maturity Process](../images/maturity-diagram.png)
+![AzCNU Maturity Process](../images/maturity-diagram.png)
 
 ## Sandbox Stage
 Sandbox projects are early stage projects that warrant experimentation. The project should be 
 beneficial to Azure and the Cloud Native community, open to contributions from the public and have 
 well-founded aspiration.
 
-The AzCU Sandbox is the entry point for early stage projects and has the following goals:
+The AzCNU Sandbox is the entry point for early stage projects and has the following goals:
 - Encourage public visibility of experiments or other early work that can add value to the mission 
-  of AzCU, Cloud Native in Azure and its impact on the larger Cloud Native community.
+  of AzCNU, Cloud Native in Azure and its impact on the larger Cloud Native community.
 - Facilitate alignment with existing projects within Azure as well as the larger community
 - Remove obstacles to adoption and contribution by ensuring projects adhere to Microsoft Open Source
   Guidelines, code of conduct and IP policy requirements
@@ -54,7 +55,7 @@ The AzCU Sandbox is the entry point for early stage projects and has the followi
     - CLA bot enabled
 
 ### Badging
-- Display of the AzCU "Sandbox" badge on website / readme which links to explanation of level.
+- Display of the AzCNU "Sandbox" badge on website / readme which links to explanation of level.
 
 ## Incubating Stage
 An Incubating project is one that has met all of the requirements of the Sandbox stage and is 
@@ -86,7 +87,7 @@ showing accelerating adoption.
   - If not possible, provide reasoning for why
 
 ### Badging
-- Display of the AzCU "Incubation" badge on website / readme which links to explanation of level.
+- Display of the AzCNU "Incubation" badge on website / readme which links to explanation of level.
 
 
 ## Graduation Stage
@@ -97,7 +98,7 @@ reached a level of maturity and polish which will delight users.
 - Met Incubation stage guidelines
 - On-call support within MSFT hosted properties, and best effort support for issues and pull requests
 - 30+ reference-able production or preproduction deployments beyond contributing companies
-- 4+ maintainers (at least one from outside AzCU)
+- 4+ maintainers (at least one from outside AzCNU)
 - Project road map published and updated
 - Full due diligence of the TOC with an eye to any misalignment
 - Have achieved and maintained a [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/)
@@ -117,7 +118,7 @@ reached a level of maturity and polish which will delight users.
   - If not possible, provide reasoning for why
 
 ### Badging
-- Display of the AzCU "Graduation" badge on website / readme which links to explanation of level.
+- Display of the AzCNU "Graduation" badge on website / readme which links to explanation of level.
 
 ## Donation
 At any point in the maturity progression can a project be donated to a more neutral home, which
