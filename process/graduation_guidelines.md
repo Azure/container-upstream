@@ -24,6 +24,9 @@ TOC can also vote with a 2/3 supermajority to archive the project.
 For a project that has reached the "Graduation Stage" and would benefit from a more neutral home in 
 a community foundation, the option of project donation is an option.
 
+All entry guidelines are aspirational and do not imply a hard rule. Each of the guidelines should
+be ju
+
 ![AzCU Maturity Process](../images/maturity-diagram.png)
 
 ## Sandbox Stage
@@ -79,7 +82,7 @@ showing accelerating adoption.
   - If not possible, provide reasoning for why
 
 ### Badging
-- Display of the AzCU "Incubation" badge on website / readme which links to explanation of level
+- Display of the AzCU "Incubation" badge on website / readme which links to explanation of level.
 
 
 ## Graduation Stage
@@ -109,12 +112,13 @@ reached a level of maturity and polish which will delight users.
   - If not possible, provide reasoning for why
 
 ### Badging
-- Display of the AzCU "Graduation" badge on website / readme which links to explanation of level
+- Display of the AzCU "Graduation" badge on website / readme which links to explanation of level.
 
 ## Donation
 At any point in the maturity progression can a project be donated to a more neutral home, which
-will provide a more diverse governance model. A project can propose to be donated during quarterly
-reviews. The TOC can approve donation of a project with a 2/3 supermajority vote.
+will provide a more open governance model. A project can propose to be donated during quarterly
+reviews. The TOC can approve donation of a project with a 2/3 supermajority vote. Project maintainers
+should provide evidence of interest from the foundation intended for donation.
 
 For example, CNCF describes a neutral home as follows:
 A neutral home for your project increases the willingness of developers from other companies and 
