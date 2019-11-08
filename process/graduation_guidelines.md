@@ -51,7 +51,7 @@ The AzCU Sandbox is the entry point for early stage projects and has the followi
   - Should have 
     - Gated PRs with unit tests
     - MSFT code of conduct
-    - LCA bot enabled
+    - CLA bot enabled
 
 ### Badging
 - Display of the AzCU "Sandbox" badge on website / readme which links to explanation of level.
