@@ -113,7 +113,8 @@ reached a level of maturity and polish which will delight users.
   of the spec.
 - SLA / SLO guidance
 - Telemetry and Metrics for errors and general usage
-  - Define a set of KPIs with a dashboard
+  - Include identifiable headers (ex: calling Azure services with the `User-Agent` http header specified)
+  - Define a set of KPIs and publish
   - Setup alerting for anomalous value ranges (ex: life cycle success rates -- create, update, etc)
   - If not possible, provide reasoning for why
 
