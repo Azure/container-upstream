@@ -42,12 +42,13 @@ The AzCU Sandbox is the entry point for early stage projects and has the followi
   Guidelines, code of conduct and IP policy requirements
   
 ### Entry Guidelines
-- Required backing of at least one member of the product management
+- Best effort support for issues and pull requests
+- Sponsorship of at least one member of the MSFT program management
 - Draft project proposal for review and approval by TOC
-  - A great example is the [CNCF Project Proposal Process](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/project_proposals.adoc)
+  - An example is the [CNCF Project Proposal Process](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/project_proposals.adoc)
   - TODO: create our own project proposal process based on the CNCF project proposal process
 - Begin working toward achieving [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/)
-  - Must have 
+  - Should have 
     - Gated PRs with unit tests
     - MSFT code of conduct
     - LCA bot enabled
@@ -60,8 +61,9 @@ An Incubating project is one that has met all of the requirements of the Sandbox
 showing accelerating adoption.
 
 ### Entry Guidelines
-- Minimum of 3 engaged users using the project in a production or pre-production environment
-- Minimum of 2 maintainers
+- Best effort support for issues and pull requests
+- 3+ engaged users using the project in a production or pre-production environment
+- 2+ maintainers
 - Full due diligence of the TOC
   - A great example is the [CNCF Due Diligence Guidelines](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/due-diligence-guidelines.md)
   - TODO: create our own DD guidelines based on the CNCF DD guidelines
@@ -69,7 +71,7 @@ showing accelerating adoption.
 - Have a healthy number of issues and pull requests from external contributors
 - Set a clear, documented versioning scheme
 - Show significant progress toward achieving [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/)
-  - Must have 
+  - Should have 
     - Unit tests and integration tests covering a majority of the codebase
     - Linting
     - Static analysis (where appropriate)
@@ -90,22 +92,22 @@ Graduation Stage project is one that has met all of the requirements of the Incu
 reached a level of maturity and polish which will delight users.
 
 ### Entry Guidelines
-- Minimum of 30 engaged users using the project in production
-- Minimum of 4 maintainers (at least one from outside AzCU)
-- Semester project road map published and updated
+- On-call support within MSFT hosted properties, and best effort support for issues and pull requests
+- 30+ engaged users using the project in production
+- 4+ maintainers (at least one from outside AzCU)
+- Project road map published and updated
 - Full due diligence of the TOC with an eye to any misalignment
 - Have achieved and maintained a [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/)
-  - Must have
+  - Should have
     - Load tests and performance tests
   - Bonus for achieving Silver or higher
-- Full security review and threat analysis with the Azure Green / Red teams
+- Security review and threat analysis with the Azure Green / Red teams
 - Explicitly define a project governance and committer process. This preferably is laid out in a 
   GOVERNANCE.md file and references an OWNERS.md file showing the current and emeritus committers.
 - Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos 
   on the project website). For a specification, have a list of adopters for the implementation(s) 
   of the spec.
 - SLA / SLO guidance
-- Support with ICM on-call rotations
 - Telemetry and Metrics for errors and general usage
   - Define a set of KPIs with a dashboard
   - Setup alerting for anomalous value ranges
