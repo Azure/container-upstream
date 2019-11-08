@@ -53,6 +53,7 @@ The AzCNU Sandbox is the entry point for early stage projects and has the follow
     - Gated PRs with unit tests
     - MSFT code of conduct
     - CLA bot enabled
+    - Releases labeled and tagged with a semantic version
 
 ### Badging
 - Display of the AzCNU "Sandbox" badge on website / readme which links to explanation of level.
