@@ -15,7 +15,7 @@ originates outside of the AzCNU group, the preferred maturity level of the proje
 a 2/3 supermajority vote by the AzCNU technical oversight committee (TOC). If the vote tally 
 can not be met at the preferred maturity level, each previous level will receive a vote until a 
 2/3 supermajority is met. If the project does not receive enough votes at the Sandbox stage, the
-project is rejected.
+project is rejected with an opinion authored by the TOC.
 
 Each project in AzCNU will participate in a quarterly review by the TOC. The review will assess the 
 project's maturity level as well as its community momentum. A 2/3 supermajority vote is required to 
