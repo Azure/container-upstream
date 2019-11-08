@@ -8,9 +8,8 @@ projects.
 
 ## Process
 
-Each project in Azure Cloud Native Upstream (AzCNU) has an associated maturity level. A proposed 
-AzCNU project should enter at the project's preferred maturity level. If the project originates 
-within the AzCNU group, then it should begin at the Sandbox Stage. If a joining project 
+Each project in Azure Cloud Native Upstream (AzCNU) has an associated maturity level. If the 
+project originates within the AzCNU group, then it should begin at the Sandbox Stage. If a project
 originates outside of the AzCNU group, the preferred maturity level of the project must meet 
 a 2/3 supermajority vote by the AzCNU technical oversight committee (TOC). If the vote tally 
 can not be met at the preferred maturity level, each previous level will receive a vote until a 
@@ -25,7 +24,8 @@ TOC can also vote with a 2/3 supermajority to archive the project.
 For a project that has reached the "Graduation Stage" and would benefit from a more neutral home in 
 a community foundation, the option of project donation is an option.
 
-All entry guidelines are aspirational and do not imply a hard rule. Since these metrics can vary significantly depending on the type, scope and size of a project, the TOC has final judgement over
+All entry guidelines are aspirational and do not imply a hard rule. Since these metrics can vary 
+significantly depending on the type, scope and size of a project, the TOC has final judgement over
 the interpretation of level with respect to the guidelines.
 
 ![AzCNU Maturity Process](../images/maturity-diagram.png)
