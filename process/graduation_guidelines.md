@@ -1,5 +1,5 @@
-# Azure Container Upstream Graduation Criteria v0.1
-The Azure Container Upstream Graduation Criteria owes much of its basis on two existing documents,
+# Azure Container Upstream Graduation Guidelines v0.1
+The Azure Container Upstream Graduation Guidelines owes much of its basis on two existing documents,
 [CNCF Graduation Criteria](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/graduation_criteria.adoc) 
 and [.NET Foundation Project Maturity Profile](https://github.com/dotnet-foundation/project-maturity-model/blob/65fdfa43d7e68845bd65638c378cf834d7158b90/maturity-profiles.md). The goal of this document is to describe the process and 
 minimum bar for each increasing level of project maturity to both provide a
@@ -55,7 +55,7 @@ An Incubating project is one that has met all of the requirements of the Sandbox
 showing accelerating adoption.
 
 ### Entry Requirements
-- Minimum of 3 customers using the project in a production or pre-production environment
+- Minimum of 3 engaged users using the project in a production or pre-production environment
 - Minimum of 2 maintainers
 - Full due diligence of the TOC
   - A great example is the [CNCF Due Diligence Guidelines](https://github.com/cncf/toc/blob/fc161c13a86ba022277a906a10ff51a568406f7c/process/due-diligence-guidelines.md)
@@ -78,10 +78,10 @@ showing accelerating adoption.
 
 ## Graduation Stage
 Graduation Stage project is one that has met all of the requirements of the Incubation stage and has
-reached a level of maturity and polish which will delight customers.
+reached a level of maturity and polish which will delight users.
 
 ### Entry Requirements
-- Minimum of 30 customers using the project in production
+- Minimum of 30 engaged users using the project in production
 - Minimum of 4 maintainers (at least one from outside AzCU)
 - Semester project road map published and updated
 - Full due diligence of the TOC with an eye to any misalignment
