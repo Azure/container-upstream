@@ -24,8 +24,8 @@ TOC can also vote with a 2/3 supermajority to archive the project.
 For a project that has reached the "Graduation Stage" and would benefit from a more neutral home in 
 a community foundation, the option of project donation is an option.
 
-All entry guidelines are aspirational and do not imply a hard rule. Each of the guidelines should
-be ju
+All entry guidelines are aspirational and do not imply a hard rule. Since these metrics can vary significantly depending on the type, scope and size of a project, the TOC has final judgement over
+the interpretation of level with respect to the guidelines.
 
 ![AzCU Maturity Process](../images/maturity-diagram.png)
 
