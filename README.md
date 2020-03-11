@@ -15,7 +15,7 @@ This list of projects is maintained by the Azure container compute upstream team
 
 ## Support
 
-Projects listed on this page are open source that Microsoft maintain or contribute to. These projects are [**NOT** covered by the Microsoft Azure support policy](https://support.microsoft.com/en-us/help/2941892/support-for-linux-and-open-source-technology-in-azure). To get help please search open issues using the links. If your issue isn't already represented, please open a new one. Consider that if you consume one of these projects as a part of a Microsoft or Azure product or service, you may be eligible for [support under that product](https://support.microsoft.com/en-us/hub/4343728/support-for-business).
+Projects listed on this page are open source that Microsoft maintain or contribute to. These projects are [**NOT** covered by the Microsoft Azure support policy](https://support.microsoft.com/en-us/help/2941892/support-for-linux-and-open-source-technology-in-azure). To get help please search open issues using the links. If your issue isn't already represented, please open a new one. However, if you consume one of these projects as a part of a Microsoft or Azure product or service, you may be eligible for [support through that product or service](https://support.microsoft.com/en-us/hub/4343728/support-for-business).
 
 ## Project list
 
