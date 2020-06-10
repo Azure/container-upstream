@@ -1,7 +1,7 @@
 # Azure Container Compute Upstream
 
 ## Welcome
-As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upstream_(software_development)) implies, the Azure Container Compute Upstream team is the team at Microsoft responsible for creating and leading the open source initiatives and projects related to container technologies and the [Kubernetes](https://kubernetes.io/) ecosystem. Our team is committed to working with the community, of both contributors and customers, to enhance the overall usabilty experience by helping to build useful and valuable open source projects.
+As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upstream_(software_development)) implies, the Azure Container Compute Upstream team is the team at Microsoft responsible for creating and leading the open source initiatives and projects related to container technologies and the [Kubernetes](https://kubernetes.io/) ecosystem. Our team is committed to working with the community, of both contributors and customers, to enhance the overall usabilty experience by helping to build and contribute to useful and valuable open source projects.
 
 ## Contents
 
