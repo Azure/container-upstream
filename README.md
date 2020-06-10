@@ -12,7 +12,7 @@ As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upst
 
 ## Upstream Projects Overview
 
-When a particular gap is recognized in a common use case, or there is a need to enhance a user experience, the Azure Container Compute Upstream team will evaluate the opportunity to contribute a solution to the community. This list of projects is maintained by the Azure container compute upstream team. This list is intended to help you make informed decisions about what projects to use (or not use) in the context of your goals (e.g. proof of concept vs. production). To make this decision you need to consider your goals, your need for formal support, the project's [maturity](#Maturity), governance, version level, and your willingness to work in open source.
+When a particular technology gap is recognized in a common use case, or there is a need to enhance a user experience, the Azure Container Compute Upstream team will evaluate the opportunity to contribute a solution to the community. These community projects are maintained by the Azure Container Compute Upstream team. To see which of these projects may be useful to you, we have organized them to be aligned and/or categorized with an operating persona, so that we can focus a scope of functionality for the current and future project alignment. The list of projects is intended to help you make an informed decision about what projects you will consider n the context of your goals (e.g. proof of concept vs. production). To make this decision you will need to consider your goals, your need for formal support, the project's [maturity](#Maturity), governance, version level, and your willingness to consume and contribute to an open source project.
 
 ## Upstream Projects Support
 
