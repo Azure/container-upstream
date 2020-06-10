@@ -1,27 +1,20 @@
 # Azure Container Compute Upstream
 
 ## Welcome
-The Azure Container Compute Upstream team is the team at Microsoft responsible for leading open source initiatives and projects related to container technologies and the [Kubernetes](https://kubernetes.io/) ecosystem. We are committed to working with the community of contributors and customers to enhance the overall usabilty experience by helping to build useful and valuable open source projects.
+The Azure Container Compute Upstream team is the team at Microsoft responsible for leading open source initiatives and projects related to container technologies and the [Kubernetes](https://kubernetes.io/) ecosystem. We are committed to working with the community, of both contributors and customers, to enhance the overall usabilty experience by helping to build useful and valuable open source projects.
 
 ## Contents
 
 * [Upstream Projects Overview](#upstream-projects-overview)
+* [Upstream Project Support](#upstream-projects-support)
 
-## Contributing
 
-This project welcomes contributions and suggestions. If you wonder what the Azure Container Compute team is working on, check out the [Project Board](https://github.com/Azure/container-compute-upstream/projects/1). If you would like to see the Azure Container Compute Upstream team work on something, first check if there is an [existing issue](https://github.com/Azure/container-compute-upstream/issues). If there isn't, please create a new one. If there is existing information elsewhere on the internet, please include the links.
-
-This project is not setup for contributing code. It is intended only for tracking issues.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Upstream Projects Overview
 
 This list of projects is maintained by the Azure container compute upstream team. This list is intended to help you make informed decisions about what projects to use (or not use) in the context of your goals (e.g. proof of concept vs. production). To make this decision you need to consider your goals, your need for formal support, the project's [maturity](#Maturity), governance, version level, and your willingness to work in open source.
 
-## Support
+## Upstream Projects Support
 
 Projects listed on this page are open source that Microsoft maintain or contribute to. These projects are [**NOT** covered by the Microsoft Azure support policy](https://support.microsoft.com/en-us/help/2941892/support-for-linux-and-open-source-technology-in-azure). To get help please search the open issues on the project using the links in the table. To communicate with the Azure Container Compute Upstream team please use the [issues](https://github.com/Azure/container-compute-upstream/issues) in this repo. If your issue isn't already represented, please open a new one. However, if you consume one of these projects as a part of a Microsoft or Azure product or service, you may be eligible for [support through that product or service](https://support.microsoft.com/en-us/hub/4343728/support-for-business).
 
@@ -62,3 +55,13 @@ Open source project maturity can be assessed on many dimensions including age, n
 
 * Project state - The first entry in the Maturity column represents the project's status. Projects in the CNCF (kubernetes, kubernetes-sigs, prometheus, etc) use the [CNCF maturity model](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc). Projects in the Azure, Microsoft, or deislabs GitHub orgs are working towards using the [guaduation guidelines](process/graduation_guidelines.md) defined in this repo. 
 * [API or Feature Versions](https://kubernetes.io/docs/concepts/overview/kubernetes-api/#api-versioning) if relevant, are listed as the second entry of the Maturity column, and follow the Kubernetes convention except where noted
+
+## Contributing
+
+This project welcomes contributions and suggestions. If you wonder what the Azure Container Compute team is working on, check out the [Project Board](https://github.com/Azure/container-compute-upstream/projects/1). If you would like to see the Azure Container Compute Upstream team work on something, first check if there is an [existing issue](https://github.com/Azure/container-compute-upstream/issues). If there isn't, please create a new one. If there is existing information elsewhere on the internet, please include the links.
+
+This project is not setup for contributing code. It is intended only for tracking issues.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
