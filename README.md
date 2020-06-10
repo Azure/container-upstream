@@ -7,7 +7,7 @@ The Azure Container Compute Upstream team is the team at Microsoft responsible f
 
 * [Upstream Projects Overview](#upstream-projects-overview)
 
-# Contributing
+## Contributing
 
 This project welcomes contributions and suggestions. If you wonder what the Azure Container Compute team is working on, check out the [Project Board](https://github.com/Azure/container-compute-upstream/projects/1). If you would like to see the Azure Container Compute Upstream team work on something, first check if there is an [existing issue](https://github.com/Azure/container-compute-upstream/issues). If there isn't, please create a new one. If there is existing information elsewhere on the internet, please include the links.
 
@@ -17,7 +17,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Upstream Projects Overview
+## Upstream Projects Overview
 
 This list of projects is maintained by the Azure container compute upstream team. This list is intended to help you make informed decisions about what projects to use (or not use) in the context of your goals (e.g. proof of concept vs. production). To make this decision you need to consider your goals, your need for formal support, the project's [maturity](#Maturity), governance, version level, and your willingness to work in open source.
 
