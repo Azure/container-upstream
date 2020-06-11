@@ -6,7 +6,7 @@ As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upst
 ## Contents
 
 * [Upstream Projects Overview](#upstream-projects-overview)
-* [Upstream Project Announcements](#upstream-project-announcements)
+* [Upstream Project Announcements](#upstream-project-announcments)
 * [Upstream Project Support](#upstream-projects-support)
 * [Upstream Project List - Operating Personas](#upstream-project-list---operating-personas)
   * [Kubernetes Cluster Management](#kubernetes-cluster-management)
