@@ -31,6 +31,9 @@ It is extremely important, as well as crucial, to understand that the projects c
 
 ### Kubernetes Cluster Management
 
+| Project & (artifacts) | Goal | Project State & <br> API Version | Communication | Use on Azure |
+|---|---|---|---|---|
+
 | Project Area | Project & (artifacts) | Goal | Project State & <br> API Version | Communication | Use on Azure |
 |---|---|---|---|---|---|
 | Kubernetes Cluster Management |  |  |  |  |
