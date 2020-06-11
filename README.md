@@ -27,7 +27,7 @@ When a particular technology gap is recognized in a common use case, or there is
 ## Upstream Project Announcments
 Here's where the Azure Container Compute Upstream team will communicate and highlight any new or current project announcments that you should be aware of.
 
-|| Date || Project || Announcement || Details ||
+| Date | Project | Announcement | Details |
 
 ## Upstream Projects Support
 
