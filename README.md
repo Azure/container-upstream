@@ -7,7 +7,14 @@ As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upst
 
 * [Upstream Projects Overview](#upstream-projects-overview)
 * [Upstream Project Support](#upstream-projects-support)
-* [Upstream Project List](#upstream-project-list)
+* [Upstream Project List - Operating Personas](#upstream-project-list)
+  * [Kubernetes Cluster Management]()
+  * [Kubernetes Azure Cloud Provider]()
+  * [Kubernetes Enhancements]()
+  * [Kubernetes Secure Infrastructure]()
+  * [Kubernetes Service Mesh]()
+  * [Container Runtime]()
+
 
 
 
