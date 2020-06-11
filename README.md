@@ -36,6 +36,11 @@ It is extremely important, as well as crucial, to understand that the projects c
 | [AKS Engine](https://github.com/Azure/aks-engine) <br> ([releases](https://github.com/Azure/aks-engine/releases)) | Self-managed clusters on Azure | Azure: incubating <br> API: N/A | [#aks-engine-users](https://kubernetes.slack.com/archives/CU3N85WJK) <br> [GitHub issues](https://github.com/Azure/aks-engine/issues) | <ul><li>[Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/)</li><li>[Azure Stack Hub](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-kubernetes-aks-engine-overview)</li></ul> |
 | [Cluster API Azure Provider](https://sigs.k8s.io/cluster-api-provider-azure) <br> ([releases](https://github.com/kubernetes-sigs/cluster-api-provider-azure/releases)) <br> [Tests](https://testgrid.k8s.io/sig-cluster-lifecycle-cluster-api-provider-azure) | Self-managed clusters on Azure using Cluster API | CNCF: incubating <br> API: v1alpha3 | [#cluster-api-azure](https://kubernetes.slack.com/archives/CEX9HENG7) <br> [kubernetes-sig-cluster-lifecycle@googlegroups.com](https://groups.google.com/forum/#!forum/kubernetes-sig-cluster-lifecycle) <br> [GitHub issues](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues) |  |
 
+### Kubernetes Azure Cloud Provider
+| Project & (artifacts) | Goal | Project State & <br> API Version | Communication | Use on Azure |
+|---|---|---|---|---|
+
+
 | Project Area | Project & (artifacts) | Goal | Project State & <br> API Version | Communication | Use on Azure |
 |---|---|---|---|---|---|
 | Kubernetes Cluster Management |  |  |  |  |
