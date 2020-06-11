@@ -6,6 +6,7 @@ As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upst
 ## Contents
 
 * [Upstream Projects Overview](#upstream-projects-overview)
+* [Upstream Project Announcements(#upstream-project-announcements)
 * [Upstream Project Support](#upstream-projects-support)
 * [Upstream Project List - Operating Personas](#upstream-project-list---operating-personas)
   * [Kubernetes Cluster Management](#kubernetes-cluster-management)
@@ -22,6 +23,12 @@ As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upst
 ## Upstream Projects Overview
 
 When a particular technology gap is recognized in a common use case, or there is a need to enhance a user experience, the Azure Container Compute Upstream team will evaluate the opportunity to contribute a solution to the community. These community projects are maintained by the Azure Container Compute Upstream team. To see which of these projects may be useful to you, we have organized them to be aligned and/or categorized with an operating persona, so that we can focus a scope of functionality for the current and future project alignment. The list of projects is intended to help you make an informed decision about what projects you will consider n the context of your goals (e.g. proof of concept vs. production). To make this decision you will need to consider your goals, your need for formal support, the project's [maturity](#Maturity), governance, version level, and your willingness to consume and contribute to an open source project.
+
+## Upstream Project Announcments
+Here's where the Azure Container Compute Upstream team will communicate and highlight any new or current project announcments that you should be aware of.
+
+| Date | Project | Announcement | Details |
+| | | |
 
 ## Upstream Projects Support
 
