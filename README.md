@@ -29,6 +29,7 @@ Here's where the Azure Container Compute Upstream team will communicate and high
 
 | Date | Project | Announcement | Details |
 |---|---|---|---|
+|||No announcments at this time. Please check back soon.||
 
 ## Upstream Projects Support
 
