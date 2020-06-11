@@ -57,7 +57,7 @@ It is extremely important, as well as crucial, to understand that the projects c
 |  | [Containerd](https://github.com/containerd/containerd) <br> ([releases](https://github.com/containerd/containerd/releases)) | Complete container lifecycle management on Linux and Windows hosts | CNCF: graduated <br> API: N/A | [#opencontainers](https://opencontainers.slack.com/archives/C0LQVA03W) <br> [dev@opencontainers.org](https://groups.google.com/a/opencontainers.org/forum/#!forum/dev) <br> [GitHub issues](https://github.com/containerd/containerd/issues) | [Use with AKS Engine](https://github.com/Azure/aks-engine/blob/master/examples/kubernetes-containerd.json) |
 |  |  |  |  |  |  |
 
-## Maturity
+## Project Maturity
 
 Open source project maturity can be assessed on many dimensions including age, number of contributors, diversity of contributor employers, and many more. Two you should consider are represented in the table as:
 
