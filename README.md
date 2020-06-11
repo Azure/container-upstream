@@ -33,6 +33,8 @@ It is extremely important, as well as crucial, to understand that the projects c
 
 | Project & (artifacts) | Goal | Project State & <br> API Version | Communication | Use on Azure |
 |---|---|---|---|---|
+| [AKS Engine](https://github.com/Azure/aks-engine) <br> ([releases](https://github.com/Azure/aks-engine/releases)) | Self-managed clusters on Azure | Azure: incubating <br> API: N/A | [#aks-engine-users](https://kubernetes.slack.com/archives/CU3N85WJK) <br> [GitHub issues](https://github.com/Azure/aks-engine/issues) | <ul><li>[Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/)</li><li>[Azure Stack Hub](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-kubernetes-aks-engine-overview)</li></ul> |
+| 
 
 | Project Area | Project & (artifacts) | Goal | Project State & <br> API Version | Communication | Use on Azure |
 |---|---|---|---|---|---|
