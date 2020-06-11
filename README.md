@@ -10,9 +10,9 @@ As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upst
 * [Upstream Project Support](#upstream-projects-support)
 * [Upstream Project List - Operating Personas](#upstream-project-list---operating-personas)
   * [Kubernetes Cluster Management](#kubernetes-cluster-management)
-  * [Kubernetes Azure Cloud Provider]()
-  * [Kubernetes Enhancements]()
-  * [Kubernetes Secure Infrastructure]()
+  * [Kubernetes Azure Cloud Provider](#kubernetes-azure-cloud-provider)
+  * [Kubernetes Enhancements](#kubernetes-enhancements)
+  * [Kubernetes Secure Infrastructure & Governance]()
   * [Kubernetes Service Mesh]()
   * [Container Runtime]()
 * [Project Maturity](#project-maturity)
@@ -62,7 +62,7 @@ It is extremely important, as well as crucial, to understand that the projects c
 | [Windows containers](https://kubernetes.io/docs/setup/production-environment/windows/intro-windows-in-kubernetes/) <br> ([kubernetes releases](https://github.com/kubernetes/kubernetes/releases)) <br> [Tests](https://testgrid.k8s.io/sig-windows#aks-engine-azure-1-17-windows) | Run Windows server containers with Kubernetes | CNCF: stable <br> API: N/A | [#sig-windows](https://kubernetes.slack.com/archives/C0SJ4AFB7) <br> [kubernetes-sig-windows@googlegroups.com](https://groups.google.com/forum/#!forum/kubernetes-sig-windows) <br> [Windows Community Forum](https://discuss.kubernetes.io/c/general-discussions/windows) <br> [GitHub issues](https://github.com/kubernetes/kubernetes/issues?q=is%3Aissue+is%3Aopen+label%3Asig%2Fwindows+) | <ul><li>[AKS Windows](https://docs.microsoft.com/en-us/azure/aks/windows-container-cli)</li><li>[AKS Engine Windows](https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md)</li></ul> |
 | [IPv4/v6 Dual Stack](https://kubernetes.io/docs/concepts/services-networking/dual-stack/) <br> ([kubernetes releases](https://github.com/kubernetes/kubernetes/releases)) <br> [Tests](https://testgrid.k8s.io/provider-azure-dualstack) | IPv4/IPv6 dual-stack enables the allocation of both IPv4 and IPv6 addresses to Pods and Services. | CNCF: stable <br> Feature: alpha | [#sig-network](https://kubernetes.slack.com/archives/C09QYUH5W) <br> [kubernetes-sig-network@googlegroups.com](https://groups.google.com/forum/#!forum/kubernetes-sig-network) <br> [GitHub issues](https://github.com/kubernetes/kubernetes/labels/area%2Fipv6) | [Use with AKS Engine](https://github.com/Azure/aks-engine/tree/master/examples/dualstack) |
 
-### Cloud Native Governance and Security
+### Secure Infrastructure & Governance
 
 | Project & (artifacts) | Goal | Project State & <br> API Version | Communication | Use on Azure |
 |---|---|---|---|---|
