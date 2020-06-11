@@ -12,9 +12,9 @@ As the software development term ["Upstream"](https://en.wikipedia.org/wiki/Upst
   * [Kubernetes Cluster Management](#kubernetes-cluster-management)
   * [Kubernetes Azure Cloud Provider](#kubernetes-azure-cloud-provider)
   * [Kubernetes Enhancements](#kubernetes-enhancements)
-  * [Kubernetes Secure Infrastructure & Governance]()
-  * [Kubernetes Service Mesh]()
-  * [Container Runtime]()
+  * [Kubernetes Secure Infrastructure & Governance](#kubernetes-secure-infrastructure--governance)
+  * [Kubernetes Service Mesh](#cloud-native-service-mesh)
+  * [Container Runtime](#container-runtime)
 * [Project Maturity](#project-maturity)
 * [Contributing](#contributing)
 
