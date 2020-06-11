@@ -27,7 +27,7 @@ When a particular technology gap is recognized in a common use case, or there is
 
 It is extremely important, as well as crucial, to understand that the projects created and maintained by the Azure Container Compute Upstream team are 100% community based open source projects. These projects, much like other open source community projects, are considered out-of-tree plug-ins, meaning they are not inherently apart of the associated upstream project code repository and therefore have their own support mechanisms and deprecation lifecycle. Even though the core group of maintainers are Microsoft employees, projects listed on this page are [**NOT** covered by the Microsoft Azure support policy](https://support.microsoft.com/en-us/help/2941892/support-for-linux-and-open-source-technology-in-azure). To get help with these projects please search the open issues on the project using the links in the table. To communicate with the Azure Container Compute Upstream team please use the [issues](https://github.com/Azure/container-compute-upstream/issues) in this repo or the associated project repo's issues. If your issue isn't already represented, please open a new one. However, if you consume one of these projects as a part of a Microsoft or Azure product or service, you may be eligible for [support through that product or service](https://support.microsoft.com/en-us/hub/4343728/support-for-business).
 
-## Upstream Project list
+## Upstream Project list - By Operating Personas
 
 ### Kubernetes Cluster Management
 
