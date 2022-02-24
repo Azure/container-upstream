@@ -41,6 +41,8 @@ Projects listed on this page are open source that Microsoft maintain or contribu
 | Container Runtime |  |  |  |  |  |
 |  | [Moby](https://github.com/moby/moby) <br> ([releases](https://github.com/moby/moby/releases)) | Toolkit for app containerization | Moby: ?? <br> API: N/A | [#opencontainers](https://opencontainers.slack.com/archives/C0LQVA03W) <br> [Moby Forums](https://forums.mobyproject.org/) <br> [GitHub issues](https://github.com/moby/moby/issues) | <li>[Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/)</li><li>[Azure Stack Hub](https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-kubernetes-aks-engine-overview)</li><li>many more</li> |
 |  | [Containerd](https://github.com/containerd/containerd) <br> ([releases](https://github.com/containerd/containerd/releases)) | Complete container lifecycle management on Linux and Windows hosts | CNCF: graduated <br> API: N/A | [#opencontainers](https://opencontainers.slack.com/archives/C0LQVA03W) <br> [dev@opencontainers.org](https://groups.google.com/a/opencontainers.org/forum/#!forum/dev) <br> [GitHub issues](https://github.com/containerd/containerd/issues) | <li>[Use with AKS](https://docs.microsoft.com/en-us/azure/aks/cluster-configuration#container-runtime-configuration)</li><li>[Use with AKS Engine](https://github.com/Azure/aks-engine/blob/master/examples/kubernetes-containerd.json)</li> |
+| Platforms |  |  |  |  |  |
+|  | [Brigade](https://brigade.sh) | Event-driven scripting for Kubernetes | CNCF: Sandbox <br> API: v2 | [#brigade channel on Kubernetes Slack](https://slack.brigade.sh) <br> [GitHub Issues](https://github.com/brigadecore/brigade/issues) |  |
 |  |  |  |  |  |  |
 
 ## Maturity
