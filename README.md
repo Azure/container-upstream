@@ -43,7 +43,10 @@ Projects listed on this page are open source that Microsoft maintain or contribu
 |  | [Containerd](https://github.com/containerd/containerd) <br> ([releases](https://github.com/containerd/containerd/releases)) | Complete container lifecycle management on Linux and Windows hosts | CNCF: graduated <br> API: N/A | [#opencontainers](https://opencontainers.slack.com/archives/C0LQVA03W) <br> [dev@opencontainers.org](https://groups.google.com/a/opencontainers.org/forum/#!forum/dev) <br> [GitHub issues](https://github.com/containerd/containerd/issues) | <li>[Use with AKS](https://docs.microsoft.com/en-us/azure/aks/cluster-configuration#container-runtime-configuration)</li><li>[Use with AKS Engine](https://github.com/Azure/aks-engine/blob/master/examples/kubernetes-containerd.json)</li> |
 | Platforms |  |  |  |  |  |
 |  | [Brigade](https://brigade.sh) | Event-driven scripting for Kubernetes | CNCF: Sandbox <br> API: v2 | [#brigade channel on Kubernetes Slack](https://slack.brigade.sh) <br> [GitHub Issues](https://github.com/brigadecore/brigade/issues) |  |
-|  |  |  |  |  |  |
+| Deployment Tools |  |  |  |  |  |
+|  | [Porter](https://porter.sh) | Package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and then install with a single command | CNCF: Sandbox <br> Stable: v0.38.x Prerelease: [v1.0.0-alpha](https://porter.sh/board/?card_filter_query=milestone:"1.0") | [Mailing list, slack, etc](https://porter.sh/community/) <br> [Project Board](https://porter.sh/board/) | [Azure Service Operator](https://github.com/Azure/azure-service-operator), [Azure Trusted Research Environments](https://microsoft.github.io/AzureTRE/)  |
+|  | [CNAB Specification](https://cnab.io) | Cloud Native Application Bundle Specification implemented by Porter | Spec: 1.1  | [#cnab on CNCF Slack](https://cloud-native.slack.com/archives/CEX1W7WMD) <br> [Issues](https://github.com/cnabio/cnab-spec/issues) |  |
+
 
 ## Maturity
 
