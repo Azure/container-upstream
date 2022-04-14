@@ -11,11 +11,8 @@ Interested in working on open source and containers at a leading hyper-scale clo
 - [Software Engineer II, Atlanta and US remote](https://careers.microsoft.com/us/en/job/1210002/Software-Engineer-II)
 - [Senior Software Engineer, US remote](https://careers.microsoft.com/us/en/job/1309571/Senior-Software-Engineer)
 
-#### Cloud native upstream
-[PLACEHOLDER]
-
 #### WASM
-[PLACEHOLDER]
+_coming soon_
 
 ### Program Manager
 #### Secure supply chain
