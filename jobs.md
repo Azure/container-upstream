@@ -15,9 +15,6 @@ Interested in working on open source and containers at a leading hyper-scale clo
 _coming soon_
 
 ### Program Manager
-#### Secure supply chain
-- [Senior Program Manager, Atlanta, remote](https://careers.microsoft.com/us/en/job/1203784/Senior-Program-Manager-Azure-Core-Upstream)
-
 #### Service Mesh
 - [Senior Program Manager, Atlanta, remote](https://careers.microsoft.com/us/en/job/1307646/Senior-Product-Manager-Open-Service-Mesh)
 
