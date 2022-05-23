@@ -6,16 +6,19 @@ Come and work with us!
 
 Interested in working on open source and containers at a leading hyper-scale cloud? You can help build the future of Kubernetes at Microsoft!  
 
-### Engineering
-#### Secure supply chain
+### Secure supply chain
+
+#### Engineering
+
 - [Software Engineer II, Atlanta and US remote](https://careers.microsoft.com/us/en/job/1210002/Software-Engineer-II)
 - [Senior Software Engineer, US remote](https://careers.microsoft.com/us/en/job/1309571/Senior-Software-Engineer)
 
-#### WASM
+### WASM
 _coming soon_
 
-## Service Mesh
-### Program Manager
+### Service Mesh
+
+#### Program Manager
 
 - [Senior Program Manager, Atlanta, remote](https://careers.microsoft.com/us/en/job/1307646/Senior-Product-Manager-Open-Service-Mesh)
 
@@ -25,6 +28,3 @@ Want to work on a cloud service that delivers a billion container images a month
 
 ### Program Manager
 - [Senior Program Manager, Atlanta, remote](https://careers.microsoft.com/us/en/job/1333040/Senior-Product-Manager-Microsoft-Container-Registry)
-
-### Engineering
-- [Senior Software Engineer, Redmond, remote](https://careers.microsoft.com/us/en/job/1222527/Senior-Software-Engineer)
