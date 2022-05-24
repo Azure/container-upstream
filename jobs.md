@@ -14,7 +14,7 @@ Interested in working on open source and containers at a leading hyper-scale clo
 - [Senior Software Engineer, US remote](https://careers.microsoft.com/us/en/job/1309571/Senior-Software-Engineer)
 
 ### WASM
-_coming soon_
+- [Principal Software Engineer](https://careers.microsoft.com/us/en/job/1333178/Principal-Software-Engineer)
 
 ### Service Mesh
 
