@@ -53,7 +53,7 @@ Projects listed on this page are open source that Microsoft maintain or contribu
 
 Open source project maturity can be assessed on many dimensions including age, number of contributors, diversity of contributor employers, and many more. Two you should consider are represented in the table as:
 
-* Project state - The first entry in the Maturity column represents the project's status. Projects in the CNCF (kubernetes, kubernetes-sigs, prometheus, etc) use the [CNCF maturity model](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc). Projects in the Azure, Microsoft, or deislabs GitHub orgs are working towards using the [guaduation guidelines](process/graduation_guidelines.md) defined in this repo.
+* Project state - The first entry in the Maturity column represents the project's status. Projects in the CNCF (kubernetes, kubernetes-sigs, prometheus, etc) use the [CNCF maturity model](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc). Projects in the Azure, Microsoft, or deislabs GitHub orgs are working towards using the [graduation guidelines](process/graduation_guidelines.md) defined in this repo.
 * [API or Feature Versions](https://kubernetes.io/docs/concepts/overview/kubernetes-api/#api-versioning) if relevant, are listed as the second entry of the Maturity column, and follow the Kubernetes convention except where noted
 
 ## Jobs
