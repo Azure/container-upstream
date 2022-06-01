@@ -22,6 +22,10 @@ Interested in working on open source and containers at a leading hyper-scale clo
 
 - [Senior Program Manager, Atlanta, remote](https://careers.microsoft.com/us/en/job/1307646/Senior-Product-Manager-Open-Service-Mesh)
 
+#### Engineering
+
+- [Senior Software Engineer Lead, US remote](https://careers.microsoft.com/us/en/job/1352032/Software-Engineering-Lead)
+
 ## Microsoft Container Registry
 
 Want to work on a cloud service that delivers a billion container images a month? Help shape the future of container security software supply chain at Microsoft!
