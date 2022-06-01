@@ -24,7 +24,7 @@ Interested in working on open source and containers at a leading hyper-scale clo
 
 #### Engineering
 
-- [Software Engineer Lead, US remote](https://careers.microsoft.com/us/en/job/1352032/Software-Engineering-Lead)
+- [Senior Software Engineer Lead, US remote](https://careers.microsoft.com/us/en/job/1352032/Software-Engineering-Lead)
 
 ## Microsoft Container Registry
 
