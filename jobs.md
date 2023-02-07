@@ -8,5 +8,3 @@ Interested in working on open source and containers at a leading hyper-scale clo
 openings.
 
 - [Senior Software Engineer](https://careers.microsoft.com/us/en/job/1501501)
-
-- [Software Engineer 2](https://careers.microsoft.com/us/en/job/1500912)
