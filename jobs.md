@@ -4,7 +4,11 @@ Come and work with us!
 
 ## Upstream team
 
-Interested in working on open source and containers at a leading hyper-scale cloud? You can help build the future of Kubernetes at Microsoft! Stay tuned for future
-openings.
+Interested in working on open source and containers at a leading hyper-scale cloud? You can help build the future of Kubernetes at Microsoft!
 
-[PLACEHOLDER]
+### Australia
+Hiring across levels 59-64
+
+- [Software Engineer - Senior Engineer DevTools](https://jobs.careers.microsoft.com/global/en/job/1716579/Software-Engineer---Senior-Engineer-DevTools)
+
+- [Software Engineer - Senior Engineer- Large Language Model](https://jobs.careers.microsoft.com/global/en/job/1716594/Software-Engineer---Senior-Engineer--Large-Language-Model)
