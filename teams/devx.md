@@ -5,8 +5,8 @@ actions, and containerization tooling.
 
 ## Contributors
 
-`ashu8912` · `bosesuneha` · `davidgamero` · `ejaifeobuks` · `illume` · `skoeva` ·
-`sniok` · `tatsinnit` · `tejhan` · `vyncent-t` · `yolossn`
+`ashu8912` · `bosesuneha` · `davidgamero` · `ejaifeobuks` · `gambtho` · `illume` ·
+`skoeva` · `sniok` · `Tatsinnit` · `tejhan` · `vyncent-t` · `yolossn`
 
 ## Projects
 
@@ -14,10 +14,10 @@ actions, and containerization tooling.
 
 | Project | Contributors |
 |---------|--------------|
-| [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) | `illume`, `vyncent-t`, `skoeva`, `sniok`, `yolossn`, `ashu8912`, `tejhan` |
-| [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) | `skoeva`, `yolossn`, `ashu8912`, `vyncent-t`, `illume`, `sniok` |
+| [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) | `illume`, `vyncent-t`, `skoeva`, `sniok`, `yolossn`, `ashu8912`, `gambtho`, `tejhan` |
+| [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) | `skoeva`, `yolossn`, `ashu8912`, `vyncent-t`, `illume`, `sniok`, `gambtho` |
 | [headlamp-k8s/hl-shared](https://github.com/headlamp-k8s/hl-shared) | `yolossn` |
-| [Azure/aks-desktop](https://github.com/Azure/aks-desktop) | `yolossn`, `sniok`, `skoeva`, `ashu8912`, `illume`, `tejhan`, `vyncent-t` |
+| [Azure/aks-desktop](https://github.com/Azure/aks-desktop) | `yolossn`, `gambtho`, `sniok`, `skoeva`, `ashu8912`, `illume`, `tejhan`, `vyncent-t` |
 
 Headlamp has community maintainers outside this team — see
 [headlamp.dev](https://headlamp.dev) and the project's own governance for the
@@ -27,8 +27,8 @@ authoritative maintainer list.
 
 | Project | Contributors |
 |---------|--------------|
-| [Azure/vscode-aks-tools](https://github.com/Azure/vscode-aks-tools) | `bosesuneha`, `tatsinnit`, `davidgamero`, `tejhan`, `ejaifeobuks` |
-| [vscode-kubernetes-tools/vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | `tatsinnit`, `tejhan`, `bosesuneha` |
+| [Azure/vscode-aks-tools](https://github.com/Azure/vscode-aks-tools) | `bosesuneha`, `Tatsinnit`, `davidgamero`, `tejhan`, `ejaifeobuks` |
+| [vscode-kubernetes-tools/vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) | `Tatsinnit`, `tejhan`, `bosesuneha` |
 
 ### CI actions and containerization
 
@@ -42,4 +42,4 @@ authoritative maintainer list.
 
 | Project | Contributors |
 |---------|--------------|
-| [notaryproject/notation](https://github.com/notaryproject/notation) | `tatsinnit` |
+| [notaryproject/notation](https://github.com/notaryproject/notation) | `Tatsinnit` |
